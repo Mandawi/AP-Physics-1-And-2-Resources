@@ -1,0 +1,57 @@
+<!-- Counter: Dec 5, 2016== 10-->
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+    <meta charset="utf-8">
+    <meta name="Osamah Mandawi" content="AP Physics Resources">
+    <title>AP Physics 1 & 2</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+  </head>
+
+
+  <body>
+
+    <br/>
+    <script type="text/javascript" src="http://counter8.01counter.com/private/counter.js?c=38d86d617d4c70be737775d9a5bcae49"></script>
+    <noscript><a href="http://www.freecounterstat.com" title="web page counter"><img src="http://counter8.01counter.com/private/freecounterstat.php?c=38d86d617d4c70be737775d9a5bcae49" border="0" title="web page counter" alt="web page counter"></a>
+    </noscript>
+
+
+    <a href="http://www.freecounterstat.com" title="web page counter"><img src="http://counter8.01counter.com/private/freecounterstat.php?c=38d86d617d4c70be737775d9a5bcae49" border="0" title="web page counter" alt="web page counter"></a>
+
+    
+    <h1>Mr. Staley's<br>AP Physics 1 and 2</h1>
+
+    <h3>
+      By Osamah Mandawi, Ben Connolly, Shari Traiger, and Maye Walsh-Costello
+    </h3>
+    <nav id="Navigation">
+      <a href="index.html" class="active">Home</a> |
+      <a href="PhysicsWebs.html">Physics Websites</a> |
+      <a href="CBAPExam.html">College Board AP Exams</a> |
+      <a href="Disclaimer.html">Disclaimer</a> |
+      <a href="Readings.html">Readings</a> |
+      <a href="UpdateInfo.html">Updates</a>
+    </nav>
+    <ol id="wrapper">
+      <h2>
+        Home
+      </h2>
+      <p>
+        Welcome to Mr. Staley's AP Physics 1 and 2!<br>
+        There are plenty of resources for the diligent AP Physics student to discover.
+      </p>
+      <p>
+        Support of this website is to be discontinued on Dec 2nd, 2016. Views requirement not accomplished.
+      </p>
+    </ol>
+  </body>
+  <footer>
+    <h6>
+      Web Design by Osamah Mandawi <br>
+      Version: 2.0.0
+    </h6>
+  </footer>
+  <!-- I bet you didn't understand anything anyways -->
+</html>
