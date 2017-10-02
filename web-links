@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+    <title>AP Physics 1 and 2</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Mr. Staley's<br>AP Physics 1 and 2</h1>
+    <h3>
+      By Osamah Mandawi, Ben Connolly, Shari Traiger, and Maye Walsh-Costello
+    </h3>
+    <nav id="Navigation">
+      <a href="index.html">Home</a> |
+      <a href="PhysicsWebs.html" class="active">Physics Websites</a> |
+      <a href="CBAPExam.html">College Board AP Exams</a> |
+      <a href="Disclaimer.html">Disclaimer</a> |
+      <a href="Readings.html">Readings</a> |
+      <a href="UpdateInfo.html">Updates</a>
+    </nav>
+
+    <ol id="wrapper">
+      <h2>
+        Websites!
+      </h2>
+      <p><li><a target="_blank" href="https://www.khanacademy.org/science/physics">-Khan Academy Physics</a><br> </li>
+        <li><a target="_blank" href="http://www.bozemanscience.com/physics">-Bozeman Science Physics</a><br> </li>
+        <li><a target="_blank" href="https://phet.colorado.edu/en/simulations/category/physics">-PHET Physics Simulations</a><br> </li>
+        <li><a target="_blank" href="http://softschools.com/quizzes/physics/">-Physics Quizzes</a><br> </li>
+        <li><a target="_blank" href="https://www.youtube.com/channel/UCliSRiiRVQuDfgxI_QN_Fmw">-For the Allure of Physics Youtube</a> <br></li>
+      </p>
+      <div id="inward">Physics Classroom<br></div>
+      <li><a target="_blank" href="http://www.physicsclassroom.com/Physics-interactives">-Interactives</a><br></li>
+      <li><a target="_blank" href="http://www.physicsclassroom.com/class">-Readings</a> <br></li>
+      <li><a target="_blank" href="http://www.physicsclassroom.com/reviews">-Test Your Knowledge</a> <br></li>
+
+    </ol>
+
+  </body>
+
+  <footer>
+    <h6>
+      Web Design by Osamah Mandawi <br>
+      Version: 2.0.0
+    </h6>
+  </footer>
+</html>
